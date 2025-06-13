@@ -5,11 +5,11 @@
 
 :root {
     --laranja-claro: #1a3503;
-    --alto-contraste-fundo: #11361d;
+    --alto-contraste-fundo: #5f8d6e;
     --alto-contraste-texto: #ffffff;
-    --alto-contraste-link: #2d5239;
+    --alto-contraste-link: #072711;
 }
-
+66
 body {
     font-size: 1rem;
     font-family: 'Montserrat';
